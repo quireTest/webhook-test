@@ -1,1 +1,1 @@
-This is a repository for testing Github WebHook mechanism.
+This is a repository for testing Github WebHook.
